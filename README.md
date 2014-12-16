@@ -1,0 +1,4 @@
+vmpc
+====
+
+VMPC algorithm implementation
